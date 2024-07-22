@@ -1,0 +1,6 @@
+Nome canale: AudioProvaX	Frequenza: 14	Audio quality: 100
+Nome canale: AudioProvaY	Frequenza: 15	Audio quality: 100
+Nome canale: VideoProvaZ	Frequenza: 16	Video quality: 100	Resolution: 12
+Nome canale: AudioProvaZ	Frequenza: 18	Audio quality: 100
+Nome canale: VideoProvaX	Frequenza: 19	Video quality: 100	Resolution: 12
+Nome canale: VideoProvaY	Frequenza: 21	Video quality: 100	Resolution: 12
