@@ -1,0 +1,8 @@
+Nome: Traghetto3	Stazza: 20	Num passeggeri: 100	Num automobili: 90
+Nome: Traghetto3	Stazza: 40	Num passeggeri: 100	Num automobili: 90
+Nome: PortaContainer1	Stazza: 50	Num passeggeri: 90	Num container: 85
+Nome: PortaContainer2	Stazza: 74	Num passeggeri: 90	Num container: 85
+Nome: PortaContainer3	Stazza: 80	Num passeggeri: 90	Num container: 85
+Nome: Traghetto1	Stazza: 80	Num passeggeri: 100	Num automobili: 90
+Nome: Traghetto2	Stazza: 85	Num passeggeri: 100	Num automobili: 90
+Nome: PortaContainer4	Stazza: 210	Num passeggeri: 90	Num container: 85
